@@ -7,7 +7,7 @@ function idade() {
  res="idoso"
     }
 
-    else if(num1<18 , num1<0){
+    else if(num1<18){
 res="menor"
 
 
